@@ -25,6 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rebel0r&show_icons=true&locale=en&layout=compact" alt="rebel0r" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebel0r)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rebel0R/Rebel0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
