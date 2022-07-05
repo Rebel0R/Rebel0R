@@ -11,7 +11,7 @@
 
 - 📄 Saiba mais sobre as minhas experiências [https://www.linkedin.com/in/rrebelojr/](https://www.linkedin.com/in/rrebelojr/)
 
-- ⚡ Completamente apaixonado por **Boku No Hero e Steven Universe**
+- ⚡ Completamente maluco por **Boku No Hero e Steven Universe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
