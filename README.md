@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou estudando **HTML, CSS e JavaScript**
 
-- 💬 Me pergunte sobre **C, Java, SQL, Excel e Photoshop**
+- 💬 Me pergunte sobre **C, Java, SQL, HTML, CSS, Excel e Photoshop**
 
 - 📫 Você me acha em **ricardoantoniojunior@alunos.utfpr.edu.br**
 
