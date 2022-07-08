@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou Ricardo Rebelo</h1>
+<h1 align="center">Olá 👋, Eu sou Ricardo Rebelo</h1>
 <h3 align="center">Apaixonado por design e me aventurando em Desenvolvimento Web</h3>
 
-- 🔭 Sou Gerente de Comunicação na [Orion Aerospace Design](https://www.instagram.com/orion.aerospace/)
+- 🚀 Sou Gerente de Comunicação na [Orion Aerospace Design](https://www.instagram.com/orion.aerospace/)
 
 - 🌱 Atualmente estou estudando **HTML, CSS e JavaScript**
 
