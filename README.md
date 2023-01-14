@@ -5,13 +5,13 @@
 
 - 🌱 Atualmente estou estudando **HTML, CSS e JavaScript**
 
-- 📖 Meu portfólio [https://www.behance.net/ricardorebel0](https://www.behance.net/ricardorebel0)
+- 📖 Meu portfólio no [Behance](https://www.behance.net/ricardorebel0)
+
+- 📄 Saiba mais sobre as minhas experiências no [LinkedIn](https://www.linkedin.com/in/rrebelojr/)
 
 - 💬 Me pergunte sobre **C, Java, Python, HTML, CSS, Javascript, PHP, SQL, Figma e Photoshop**
 
 - 📫 Você me acha em **ricardorebelojr@gmail.com**
-
-- 📄 Saiba mais sobre as minhas experiências [https://www.linkedin.com/in/rrebelojr/](https://www.linkedin.com/in/rrebelojr/)
 
 - ⚡ Completamente apaixonado por **Boku No Hero e Steven Universe**
 
