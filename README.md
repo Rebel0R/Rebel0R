@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou Ricardo Rebelo</h1>
+<h1 align="center">Oi, Eu sou Ricardo Rebelo 👋</h1>
 <h3 align="center">Apaixonado por Design e me aventurando em Desenvolvimento Web</h3>
 
-- 🌱 Atualmente estou estudando **HTML, CSS e JavaScript**
+- 🌱 Atualmente estou estudando **JavaScript e React.js**
 
 - 📖 Meu portfólio no [Behance](https://www.behance.net/ricardorebel0)
 
